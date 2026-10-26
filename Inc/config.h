@@ -808,3 +808,5 @@
 
 #endif
 
+[custom_upload]
+targets = firmware
